@@ -19,7 +19,6 @@
 <body>
     <div class="container">
         <h1>Tableau de bord</h1>
-        <div>test git</div>
     </div>
 </body>
 </html>
